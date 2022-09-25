@@ -1,2 +1,2 @@
 # DSnAlgo
-This Repo contains all the code of different data structures and some important alogorithms
+This Repo contains the code of all data structures and some important alogorithms
